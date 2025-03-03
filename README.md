@@ -183,4 +183,16 @@ Example: "How a Transformer Works" is better than "Transformer Electromagnetic I
 Readers should understand the main points just by scanning the headings.
 Example: Instead of "Step 1", use "Step 1: Turn Off Power."
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+Product Name & One-Line Summary – A concise description of what it is and does.
+Purpose & Problem Solved – Explain why the product exists and its key benefit.
+Key Features (Briefly Listed) – Highlight the most important functionalities.
+Who It's For – Identify the target audience or users.
+Quick Installation/Usage Note (Optional) – A short mention of how to get started.
 ## 12. How can you succinctly convey the purpose and key features of a product?
+1. Clear Purpose (What & Why)
+Define what the product is and the problem it solves.
+Emphasize its core benefit in one or two sentences.
+2. Key Features (How)
+Highlight the most important functionalities in bullet points.
+Focus on what makes it unique or valuable.
+
